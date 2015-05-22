@@ -1,0 +1,84 @@
+* {
+    font-family: 'Gloria Hallelujah', cursive;;
+    color:white;
+}
+
+#about {
+    height: 800px;
+    background-image:
+        linear-gradient(#0091EA,#E1F5FE);
+    background background-size:
+        cover;
+}
+
+.first {
+ margin-top: 8em;
+}
+
+.secound {
+font-size: 2.5em;
+margin-top: 5em;
+}
+
+h5 {
+posotion:absolute;
+margin-left: 1.5em;
+}
+
+p {
+margin-top: 1.5em;
+}
+
+.glyphicon {
+    margin-top: 2em;
+    font-size: 4em;
+        
+}
+
+#work {
+    height: 800px;
+    background-image:
+linear-gradient(#00C853,#E8F5E9);
+}
+
+#contact {
+    height: 800px;
+    background-image:
+linear-gradient(#FFD600,#FFFDE7);
+}
+    
+    
+footer {
+    width: 100%;
+    height: 30px;
+    padding: 15px;
+    background-color: black;
+}
+
+.navbar {
+    background-color: transparent;
+    border-color: transparent;
+}
+    
+    
+.navbar-default .navbar-brand {
+    color: white;
+}
+    
+    
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: thick solid #fff;
+    color: white;
+ }
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.fourth {
+    margin-top: 3em;  
+    font-size: 5em;
+    
+}
+
+
